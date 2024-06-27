@@ -88,8 +88,7 @@ testpath
 threadpoolctl
 toml
 tomli
-torch==2.2.1+cu121
-torch-scatter==2.1.2
+torch==2.3.0+cu121
 torchaudio
 torchvision
 tornado
